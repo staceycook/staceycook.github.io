@@ -1,0 +1,29 @@
+body {
+}
+h1 {
+	font-family: "Calibri Light";
+	color: white;
+	text-align: center;
+	font-size: 4em;
+	margin-top: -5px;
+	border: solid teal 3px;
+	background-color: teal;
+}
+div.nav {
+	margin-left: 20px;
+	float: left;
+	width: 150px;
+}
+div.content {
+	margin-left: 180px;
+	padding: 40px;
+	border-left: solid gray 3px;
+}
+div.footer {
+	float: bottom;
+	border-top: solid gray 1px;
+	text-align: left;
+	padding: 5px;
+	position: absolute;
+	bottom: 0;
+}
